@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--
+  EO Indonesia - Sitemap XML Resmi
+  Disusun otomatis sesuai kaidah Google Webmaster Tools & Protokol W3C.
+  Cakupan: 38 Provinsi Republik Indonesia
+  Kontak Teknis: eoindonesia.id@gmail.com
+-->
+  <url>
+    <loc>https://eoindonesia.id/</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/tentang-kami</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/tentang-kami" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/tentang-kami?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/tentang-kami" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/layanan</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/layanan" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/layanan?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/layanan" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/portofolio</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/portofolio" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/portofolio?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/portofolio" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/artikel</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/artikel" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/artikel?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/artikel" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/kontak</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/kontak" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/kontak?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/kontak" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/wilayah</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/wilayah" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/wilayah?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/wilayah" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/eo-jogja</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/eo-jogja" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/eo-jogja?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/eo-jogja" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/eo-solo</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/eo-solo" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/eo-solo?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/eo-solo" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/eo-semarang</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/eo-semarang" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/eo-semarang?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/eo-semarang" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/eo-surabaya</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/eo-surabaya" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/eo-surabaya?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/eo-surabaya" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/eo-jakarta</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/eo-jakarta" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/eo-jakarta?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/eo-jakarta" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/layanan?service=mice</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/layanan?service=mice" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/layanan?service=mice&amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/layanan?service=mice" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/layanan?service=corporate</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/layanan?service=corporate" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/layanan?service=corporate&amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/layanan?service=corporate" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/layanan?service=brand-activation</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/layanan?service=brand-activation" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/layanan?service=brand-activation&amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/layanan?service=brand-activation" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/layanan?service=concert-festival</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/layanan?service=concert-festival" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/layanan?service=concert-festival&amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/layanan?service=concert-festival" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/layanan?service=government-protocol</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/layanan?service=government-protocol" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/layanan?service=government-protocol&amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/layanan?service=government-protocol" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/artikel?id=izin-keramaian-polri-guide</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/artikel?id=izin-keramaian-polri-guide" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/artikel?id=izin-keramaian-polri-guide&amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/artikel?id=izin-keramaian-polri-guide" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/artikel?id=sop-crowd-management-festival</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/artikel?id=sop-crowd-management-festival" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/artikel?id=sop-crowd-management-festival&amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/artikel?id=sop-crowd-management-festival" />
+  </url>
+  <url>
+    <loc>https://eoindonesia.id/artikel?id=teknologi-led-3d-anamorphic</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://eoindonesia.id/artikel?id=teknologi-led-3d-anamorphic" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://eoindonesia.id/artikel?id=teknologi-led-3d-anamorphic&amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eoindonesia.id/artikel?id=teknologi-led-3d-anamorphic" />
+  </url>
+</urlset>

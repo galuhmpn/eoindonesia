@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-midnight-navy: #06142E;
+    --color-deep-navy: #0A2150;
+    --color-electric-blue: #075BFF;
+    --color-vibrant-blue: #008CFF;
+    --color-luminous-cyan: #19E6FF;
+    --color-ice-blue: #B6F4FF;
+    --color-cloud-white: #F7FAFF;
+    --color-pale-blue: #EDF5FF;
+    --color-soft-border: #DCE7F5;
+    --color-dark-ink: #14243B;
+  }
+
+  html {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    scroll-behavior: smooth;
+  }
+  
+  h1, h2, h3, h4, .font-display {
+    font-family: 'Outfit', 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+}
+
+/* Brand Gradients & Lighting Accents */
+.bg-brand-gradient {
+  background: linear-gradient(120deg, #075BFF 0%, #008CFF 55%, #19E6FF 100%);
+}
+
+.text-brand-gradient {
+  background: linear-gradient(120deg, #075BFF 0%, #008CFF 55%, #19E6FF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bg-navy-hero {
+  background: radial-gradient(circle at 50% 0%, #0A2150 0%, #06142E 70%, #030B1A 100%);
+}
+
+.glow-electric {
+  box-shadow: 0 4px 20px -2px rgba(7, 91, 255, 0.4), 0 0 12px 0 rgba(25, 230, 255, 0.25);
+}
+
+.glow-electric-subtle {
+  box-shadow: 0 4px 16px -2px rgba(7, 91, 255, 0.25);
+}
+
+.glow-cyan-subtle {
+  box-shadow: 0 0 16px rgba(25, 230, 255, 0.2);
+}
+
+/* Custom crisp scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #06142E;
+}
+::-webkit-scrollbar-thumb {
+  background: #1E3A8A;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #075BFF;
+}

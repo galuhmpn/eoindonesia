@@ -1,0 +1,9 @@
+# Robots.txt for EO Indonesia (eoindonesia.id)
+# Allow all standard search engine crawlers (Googlebot, Bingbot, YandexBot, etc.)
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://eoindonesia.id/sitemap.xml

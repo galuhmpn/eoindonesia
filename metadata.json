@@ -1,0 +1,6 @@
+{
+  "name": "EO Indonesia - Platform Manajemen Acara & Event Production Nasional",
+  "description": "Platform terpadu manajemen acara dan produksi panggung berskala nasional eoindonesia.id. MICE, corporate gathering, konser festival, dan brand activation di seluruh Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
